@@ -8,6 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Promjena2");
         }
     }
 }
